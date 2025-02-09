@@ -53,3 +53,7 @@ DIY Automation:
 Agriculture:
 
 -Use for monitoring temperature in greenhouses or for crop storage areas.
+
+#OUTPUT
+
+<img width="304" alt="Image" src="https://github.com/user-attachments/assets/900fabbe-a016-45e5-84eb-f227ed72e166" />
